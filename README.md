@@ -16,7 +16,9 @@ Trouver le mot caché
 
 
 # Démarrage du jeu 
-Cliquer sur "Run"
+1) Cliquer sur "Run"
+2) Entrer le nom de votre fichier
+3) Entrer le nom du dossier (chemin du fichier) 
 
 # Fonctionnalités principales 
 - Importer un fichier 
